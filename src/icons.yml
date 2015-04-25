@@ -5056,3 +5056,10 @@ icons:
     created:    4.3
     categories:
       - Brand Icons
+
+  - name:         Meetup
+    id:         meetup
+    unicode:    f300
+    created:    4.4
+    categories:
+      - Brand Icons
